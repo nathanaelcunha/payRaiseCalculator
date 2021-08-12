@@ -1,0 +1,39 @@
+@charset "UTC-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    margin: auto;
+    display: flex;,
+    
+}
+
+#salario_antigo {
+    margin-top: 10px;
+}
+
+#master {
+    width: 30%;
+    margin-top: 10px;
+    padding-top: 5px;
+    border: 1px solid rgb(151, 151, 151);
+    box-shadow: 1px 1px 2px 0.5px rgba(0, 0, 0, 0.253);
+
+}
+
+div,span ,button{
+    margin-left: 10px;
+}
+
+button:hover {
+    background: black;
+    color: white;
+    border-radius: 10%;
+}
+
+#salario_montante {
+    margin-bottom: 10px;
+}
